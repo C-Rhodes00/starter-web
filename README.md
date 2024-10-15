@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 Fork this repository or something
-Adding more text for example
+Adding more text for example, then more changes from myfeature
 
 ## Purpose
 
