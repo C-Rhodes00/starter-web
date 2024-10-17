@@ -13,4 +13,4 @@ Sample website with plenty of files for demos to show how Git and GitHub work to
 
 Here is text about Deployment. This next sentence is not staged yet.
 
-2014 Git.Training
+2014 Git.Training. All rights reserved
